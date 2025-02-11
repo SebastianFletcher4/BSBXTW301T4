@@ -1,6 +1,6 @@
 This repository is for BSBXTW301: Topic 4 - Team Collaboration Tools.  
 To clone this repository, use the following command:  
-`git clone git@github.com:<accountname>:<reponame>.git`  
+`git clone git@github.com:<accountname>:<reponame>.git`  [or] `git clone git@github.com:HsuMyatWin-SuniTAFE/BSBXTW301T4.git`  
 
 - Replace `<accountname>` with your GitHub username or the organization name.  
 - Replace `<reponame>` with the name of the repository you want to clone.  
